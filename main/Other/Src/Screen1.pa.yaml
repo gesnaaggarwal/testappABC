@@ -1,0 +1,9 @@
+Screen1:
+  Control: Screen
+  Children:
+  - Label1:
+      Control: Label
+      Properties:
+        Text: ="Testing a hunch"
+        X: =339
+        Y: =309

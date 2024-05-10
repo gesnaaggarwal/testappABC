@@ -1,0 +1,9 @@
+App:
+  Control: App
+  Properties:
+    BackEnabled: =false
+    Theme: =PowerAppsTheme
+  Children:
+  - Host:
+      Control: Host
+      Variant: DefaultHostControlVariant

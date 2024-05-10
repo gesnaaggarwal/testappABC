@@ -2,7 +2,7 @@ Screen1 As screen:
 
     Label1 As label:
         Text: ="Testing a hunch"
-        X: =40
-        Y: =40
+        X: =339
+        Y: =309
         ZIndex: =1
 
